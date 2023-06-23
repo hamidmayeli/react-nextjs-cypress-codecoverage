@@ -29,8 +29,9 @@
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.10.7",
-    "babel-plugin-istanbul": "^6.1.1",
     "cypress": "^12.15.0",
-    "start-server-and-test": "^2.0.0"
+    "cypress-plugin-api": "^2.11.1",
+    "start-server-and-test": "^2.0.0",
+    "swc-plugin-coverage-instrument": "^0.0.18"
   }
 }
